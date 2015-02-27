@@ -5,3 +5,125 @@ html {
 *, *::before, *::after {
 	box-sizing: inherit;
 }
+
+header,
+footer{
+	background-color: #cd5b34;
+	overflow: hidden;
+}
+
+body{
+	margin: 0;
+}
+
+
+h1,
+h2,
+h3{
+	text-align: center;
+	clear: both;
+	color: white;
+	margin: 0;
+}
+
+figure{
+	margin: 0;
+}
+
+.clear-left{
+	clear: left;
+}
+
+.orange-background{
+	background-color: #d98156;
+	clear: both;
+	overflow: hidden;
+}
+
+.grains{
+	float: left;
+	width: 40%;
+}
+
+.cereals{
+	float: right;
+	clear: left;
+	width: 40%;
+}
+
+.quinoa{
+	float: right;
+	clear: right;
+	width: 40%;
+}
+
+.rice-oats{
+	float: left;
+	width: 50%;
+}
+
+.rice,
+.oats{
+	width: 100%;
+}
+
+.peanuts{
+	float: left;
+	width: 50%;
+	clear: left;
+}
+
+.beans{
+	float: left;
+	width: 50%;
+	clear: left;
+}
+
+.lentils{
+	float: left;
+	width: 50%;
+	clear: left;
+}
+
+.legumes{
+	color: black;
+}
+
+figcaption{
+	text-align: center;
+	color: white;
+}
+
+ol,
+a{
+	list-style-type: none;
+	text-decoration: none;
+	color: white;
+}
+
+dt{
+	font-weight: bold;
+	float: left;
+	width: 40%;
+	clear: left;
+}
+
+dd{
+	float: left;
+	width: 60%;
+	margin: 0;
+}
+
+footer{
+	clear: left;
+}
+
+ol{
+	text-align: center;
+	padding: 0;
+}
+
+li{
+	float:left;
+	width: 33.33%;
+}
