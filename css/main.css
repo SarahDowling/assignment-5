@@ -1,5 +1,6 @@
 html {
 	box-sizing: border-box;
+	font-family: 'Merriweather', serif;
 }
 
 *, *::before, *::after {
@@ -165,7 +166,7 @@ li{
 	width: 33.33%;
 	padding-bottom:0.5rem;
 	padding-top:0.5rem;
-	font-size: 1.25rem;
+	font-size: 1.25em;
 	border-top: 1px solid #a33f3a;
 }
 
@@ -176,7 +177,7 @@ li{
 
 p{
 	line-height: 1.5rem;
-	font-size: 1.15rem
+	font-size: 1em
 }
 
 footer{
@@ -208,8 +209,14 @@ img{
 .no{
 	border:none;
 	}
+
+nav a{
+	padding-bottom:0.5rem;
+	padding-top:0.5rem;
+	padding-left: 16.6665%;
+	padding-right: 16.6665%;
 }
 
-nav a:hover {
+nav li:hover {
   background-color: #a93f35;
 }
