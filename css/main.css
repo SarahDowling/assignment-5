@@ -156,20 +156,6 @@ footer{
 	clear: left;
 }
 
-ol{
-	text-align: center;
-	padding: 0;
-}
-
-li{
-	float:left;
-	width: 33.33%;
-	padding-bottom:0.5rem;
-	padding-top:0.5rem;
-	font-size: 1.25em;
-	border-top: 1px solid #a33f3a;
-}
-
 .cereal-line{
 	border-left: 1px solid #a33f3a;
 	border-right: 1px solid #a33f3a;
@@ -210,11 +196,22 @@ img{
 	border:none;
 	}
 
+ol{
+	text-align: center;
+	padding: 0;
+}
+
+li{
+	float:left;
+	width: 33.33%;
+	font-size: 1.25em;
+	border-top: 1px solid #a33f3a;
+}
+
 nav a{
-	padding-bottom:0.5rem;
-	padding-top:0.5rem;
-	padding-left: 16.6665%;
-	padding-right: 16.6665%;
+display:block;
+padding-top: 0.5em;
+padding-bottom: 0.5em;
 }
 
 nav li:hover {
