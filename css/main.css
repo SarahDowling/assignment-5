@@ -99,27 +99,6 @@ figure{
 	padding-bottom: 1em;
 }
 
-/*.peanuts{
-	float: left;
-	width: 65%;
-	clear: left;
-	margin-right:1em;
-}
-
-.beans{
-	float: left;
-	width: 65%;
-	clear: left;
-	margin-right:1em;
-}
-
-.lentils{
-	float: left;
-	width: 65%;
-	clear: left;
-	margin-right:1em;
-}*/
-
 .legumes{
 	color: black;
 }
@@ -136,16 +115,6 @@ a{
 	text-decoration: none;
 	color: white;
 }
-/*
-dt{
-	font-weight: bold;
-	float: left;
-	width: 40%;
-	clear: left;
-	padding-bottom:1.5rem;
-	padding-left:0.75rem;
-	font-style: italic;
-}*/
 
 ul{
 	margin: 0;
@@ -155,7 +124,7 @@ ul{
 ul li{
 	clear: left;
 	list-style-type: none;
-		margin: 0;
+	margin: 0;
 	padding: 0;
 	line-height: 1.5em;
 }
@@ -183,14 +152,6 @@ ul p{
 			margin: 0;
 	padding: 0;
 }
-
-/*
-dd{
-	float: left;
-	width: 60%;
-	margin: 0;
-	font-style: italic;
-}*/
 
 footer{
 	clear: left;
